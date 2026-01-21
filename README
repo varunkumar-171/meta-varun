@@ -1,27 +1,10 @@
 This README file contains information on the contents of the meta-varun layer.
 
-Please see the corresponding sections below for details.
 
 Dependencies
 ============
 
-  URI: <first dependency>
-  branch: <branch name>
-
-  URI: <second dependency>
-  branch: <branch name>
-
-  .
-  .
-  .
-
-Patches
-=======
-
-Please submit any patches against the meta-varun layer to the xxxx mailing list (xxxx@zzzz.org)
-and cc: the maintainer:
-
-Maintainer: XXX YYYYYY <xxx.yyyyyy@zzzzz.com>
+  No dependencies yet
 
 Table of Contents
 =================
@@ -38,4 +21,4 @@ Run 'bitbake-layers add-layer meta-varun'
 II. Misc
 ========
 
---- replace with specific information about the meta-varun layer ---
+This layer contains a custom kernel module for the ssd1306 oled display and its corresponding device tree source file
